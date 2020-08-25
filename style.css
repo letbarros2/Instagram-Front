@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    /* criando base gradiente, onde será usado as cores para baixo, pegando como base as cores do instagram */
+    background: linear-gradient(to bottom, #d139ca, #f79b70);
+    height: 100vh;
+}
