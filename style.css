@@ -20,7 +20,8 @@ h4, label {
 
 .logoinstagram img {
     border-radius: 50px;
-    width: 60px;
+    width: 56px;
+    height: 56px;
     float: left;
     margin-right: 15px;
 }
@@ -56,4 +57,17 @@ h4, label {
     text-align: center;
     width: 100%;
     padding-bottom: 30px;
+}
+.Responder input{
+    border-radius: 50px;
+    font-size: 16px;
+    padding: 15px;
+    outline:0;
+    border:1px solid white;
+    background: transparent;
+    width: 80%;
+}
+::-webkit-input-placeholder{
+    color:white;
+    /* o pulo do gato ahsduahdsusadhduah */
 }
