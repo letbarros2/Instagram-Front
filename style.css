@@ -9,3 +9,24 @@ body {
     background: linear-gradient(to bottom, #d139ca, #f79b70);
     height: 100vh;
 }
+
+h4, label {
+    color: white;
+}
+
+.logoinstagram {
+    padding: 15px;
+}
+
+.logoinstagram img {
+    border-radius: 50px;
+    width: 60px;
+    float: left;
+    margin-right: 15px;
+}
+.Perguntas{
+    background-color: white;
+    margin:50px;
+    text-align: center;
+
+}
